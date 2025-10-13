@@ -1,0 +1,7 @@
+2025-10-12 19:15:57.445613-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MEDICOS" not found (this database is empty); SQL statement:
+SELECT nombre, apellido, especialidad, numero_matricula FROM MEDICOS [42104-224]
+2025-10-12 19:17:06.734037-03:00 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MEDICOS" not found (this database is empty); SQL statement:
+SELECT nombre, apellido, especialidad, numero_matricula, dni 
+FROM MEDICOS ORDER BY ID [42104-224]
