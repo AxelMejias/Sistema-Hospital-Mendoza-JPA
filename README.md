@@ -293,35 +293,7 @@ dependencies {
 - **DDL**: Auto-update para desarrollo
 - **SQL Logging**: Habilitado para depuración
 
-## 👥 Contribución
-
-### Estructura de Commits
-- `feat:` Nueva funcionalidad
-- `fix:` Corrección de errores
-- `docs:` Documentación
-- `refactor:` Refactorización de código
-- `test:` Pruebas
-
-### Codificación
-- Java Coding Standards (Oracle)
-- Nomenclatura en español para entidades de negocio
-- Comentarios en español para mejor comprensión
-
-## 📄 Licencia
-
-Este proyecto es de uso educativo para el curso de Programación y Paradigmas Orientado a Objetos de la Universidad Tecnológica Nacional (UTN) - Argentina.
-
 ---
 
-## 📞 Contacto y Soporte
-
-**Proyecto desarrollado para:**
-- **Institución**: Universidad Tecnológica Nacional (UTN) - Argentina
-- **Materia**: Programación y Paradigmas Orientado a Objetos
-- **Año**: 2025
-
-**Tecnologías Clave**: Java 21, JPA/Hibernate, H2 Database, Lombok, Gradle
-
----
 
 *¡Gracias por usar el Sistema de Gestión Hospitalaria Hospital Gral Mendoza! 🏥*
